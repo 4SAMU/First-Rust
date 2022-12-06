@@ -45,7 +45,7 @@ cargo check
 <br/>
 
 **Run for specific file**<br/>
-example filenamed _hello_world.rs_
+example file named _hello_world.rs_
 
 ```shell
 rustc hello_world.rs

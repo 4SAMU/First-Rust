@@ -43,11 +43,6 @@ cargo check
 - Instead of saving the result of the build in the same directory as our code, Cargo stores it in the target/debug directory.
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-
-
 [**Installing Rust**](https://www.digitalocean.com/community/tutorials/install-rust-on-ubuntu-linux)
 
 
